@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\components\\drinks-list",
+    "\\src\\components\\header",
+    "\\src\\components\\ingredients-list",
+    "\\src\\components\\recipe",
+    "\\src\\screens\\drinks"
+  ],
+  "SelectedNode": "\\firebase.json",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,13 @@
+.header {
+    background-color: #0f131a;
+    padding: 1px;
+}
+
+.rs-nav {
+    text-align: center;
+}
+
+.rs-input-group {
+    width: calc(100% - 20px) !important;
+    margin: 10px;
+}

@@ -1,0 +1,50 @@
+.recipe-panel {
+    position: relative;
+}
+
+.recipe-panel .rs-icon {
+    position: absolute;
+    right: 20px;
+}
+
+.recipe-name {
+    font-size: 21px;
+    line-height: 1.25;
+    padding-bottom: 20px;
+}
+
+.recipe-image {
+    width: 100%;
+}
+
+.recipe-measure {
+    color: #a8aaad;
+    margin-left: 5px;
+}
+
+.recipe-glass {
+    position: relative;
+    margin-top: 20px;
+}
+
+.recipe-glass .rs-tag {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.recipe-glass p {
+    padding-top: 2px;
+}
+
+.recipe-tags {
+    margin-top: 25px;
+}
+
+.recipe-tags .rs-tag {
+    margin: 3px 6px 3px 0;
+}
+
+.rs-tag + .rs-tag {
+    margin-left: 0 !important;
+}

@@ -1,0 +1,22 @@
+.drink-panel {
+    margin: 10px;
+}
+
+.drink-panel .rs-panel-body {
+    padding: 0 !important;
+    position: relative;
+}
+
+.drink-name {
+    padding-left: 10px;
+}
+
+.ingredients {
+    position: absolute;
+    right: 5px;
+    top: 25%;
+}
+
+.drink-image {
+    height: 50px;
+}
